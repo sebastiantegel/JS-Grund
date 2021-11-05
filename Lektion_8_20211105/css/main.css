@@ -1,0 +1,18 @@
+#result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.movie-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+
+  width: 30%;
+}
+
+.movie-container img {
+  width: 75%;
+}
