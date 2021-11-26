@@ -1,0 +1,19 @@
+{
+    "Search": [
+        {
+            "Title": "Star wars",
+            "Year": "1977",
+            "Poster": "Someurltotheposter"
+        },
+        {
+            "Title": "Matrix",
+            "Year": "1999",
+            "Poster": "Someurltotheposter"
+        },
+        {
+            "Title": "Annie",
+            "Year": "2014",
+            "Poster": "Someurltotheposter"
+        }
+    ]
+}
